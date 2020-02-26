@@ -24,7 +24,7 @@ Dijkstra算法采用的是一种**贪心**的策略。
 
 ![Dijkstra算法](images/Dijkstra_Animation.gif)
 
-## 代码实现
+### 代码实现
 
 c++代码实现如下
 
