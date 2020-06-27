@@ -1,5 +1,7 @@
 # 哈希表
 
+## Leetcode例题
+
 | ID | Title | Difficulty |
 | --- | --- | --- |
 |     1 | 两数之和 | Easy |

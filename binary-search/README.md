@@ -1,7 +1,6 @@
 # 二分查找
 
-
-## 例题
+## Leetcode例题
 
 | ID | Title | Difficulty |
 | --- | --- | --- |
